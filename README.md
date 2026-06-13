@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -13,4 +14,12 @@
 |  |
 | ------- |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
+## Greedy
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
+## Sorting
+|  |
+| ------- |
+| [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 <!---LeetCode Topics End-->
