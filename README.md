@@ -9,10 +9,12 @@
 ## String
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
