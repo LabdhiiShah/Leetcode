@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/LabdhiiShah/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->
