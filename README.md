@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/LabdhiiShah/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -26,6 +27,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 ## Linked List
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LabdhiiShah/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
 ## Prefix Sum
 |  |
 | ------- |
