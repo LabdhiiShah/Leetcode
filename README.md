@@ -9,6 +9,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/LabdhiiShah/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -71,4 +72,12 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiiShah/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/LabdhiiShah/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
