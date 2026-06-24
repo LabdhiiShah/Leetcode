@@ -57,6 +57,7 @@
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LabdhiiShah/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
