@@ -10,15 +10,16 @@ public:
                 return a[0] < b[0];
             });
 
-        vector<vector<int>> result;
-        result.push_back(intervals[0]);
+        int maxEndPoint = intervals[0][1];
+        int cnt = 1;
 
         for(int i = 1; i < intervals.size(); i++)
         {
-            if(result.back()[1] >= intervals[i][1])
+            if(maxEndPoint >= intervals[i][1])
                 continue; 
-            result.push_back(intervals[i]);
+            cnt++;
+            maxEndPoint = intervals[i][1];
         }
-        return result.size();
+        return cnt;
     }
 };   
