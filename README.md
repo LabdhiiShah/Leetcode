@@ -16,6 +16,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LabdhiiShah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -77,6 +78,7 @@
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LabdhiiShah/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -114,6 +116,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
@@ -181,4 +184,8 @@
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LabdhiiShah/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/LabdhiiShah/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
