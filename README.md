@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/LabdhiiShah/Leetcode/tree/master/0735-asteroid-collision) |
 | [1288-remove-covered-intervals](https://github.com/LabdhiiShah/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/LabdhiiShah/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -68,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -80,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LabdhiiShah/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
