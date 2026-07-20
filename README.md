@@ -6,6 +6,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [0735-asteroid-collision](https://github.com/LabdhiiShah/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/LabdhiiShah/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/LabdhiiShah/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/LabdhiiShah/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/LabdhiiShah/Leetcode/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3612-process-string-with-special-operations-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/LabdhiiShah/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -177,6 +179,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
