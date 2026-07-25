@@ -1,14 +1,19 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        string s;
+        int max1 = INT_MIN, max2 = INT_MIN;
         while(n != 0)
         {
             int d = n % 10;
-            s += (d + '0');
             n = n / 10;
+
+            if(d >= max1)
+            {
+                max2 = max1;
+                max1 = d;
+            }
+            else if(d > max2) max2 = d;
         }
-        sort(s.begin(), s.end(),greater<char>());
-        return (s[0]-'0') * (s[1]-'0');
+        return (max1 * max2);
     }
 };
