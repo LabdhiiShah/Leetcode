@@ -8,6 +8,7 @@
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LabdhiiShah/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/LabdhiiShah/Leetcode/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/LabdhiiShah/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -100,6 +101,7 @@
 | [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LabdhiiShah/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LabdhiiShah/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LabdhiiShah/Leetcode/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -244,4 +247,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
