@@ -28,6 +28,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3731-find-missing-elements](https://github.com/LabdhiiShah/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/LabdhiiShah/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -78,6 +79,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/LabdhiiShah/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/LabdhiiShah/Leetcode/tree/master/3731-find-missing-elements) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/LabdhiiShah/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Linked List
 |  |
@@ -138,6 +140,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/LabdhiiShah/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LabdhiiShah/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3731-find-missing-elements](https://github.com/LabdhiiShah/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Bit Manipulation
