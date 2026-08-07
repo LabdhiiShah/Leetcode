@@ -42,6 +42,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/LabdhiiShah/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3614-process-string-with-special-operations-ii) |
@@ -64,6 +65,7 @@
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/LabdhiiShah/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
 ## Sorting
@@ -114,6 +116,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/LabdhiiShah/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -250,6 +253,7 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -277,4 +281,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/LabdhiiShah/Leetcode/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
