@@ -42,6 +42,7 @@
 | [2287-rearrange-characters-to-make-target-string](https://github.com/LabdhiiShah/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LabdhiiShah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -65,6 +66,7 @@
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LabdhiiShah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3767-maximize-points-after-choosing-k-tasks](https://github.com/LabdhiiShah/Leetcode/tree/master/3767-maximize-points-after-choosing-k-tasks) |
@@ -94,6 +96,7 @@
 | [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LabdhiiShah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
@@ -168,6 +171,7 @@
 | [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/LabdhiiShah/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1406-stone-game-iii](https://github.com/LabdhiiShah/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LabdhiiShah/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LabdhiiShah/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
