@@ -106,6 +106,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/LabdhiiShah/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/LabdhiiShah/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LabdhiiShah/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
@@ -150,6 +151,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/LabdhiiShah/Leetcode/tree/master/0231-power-of-two) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -261,6 +263,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/LabdhiiShah/Leetcode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
