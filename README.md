@@ -91,12 +91,14 @@
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/LabdhiiShah/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -105,6 +107,7 @@
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/LabdhiiShah/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0735-asteroid-collision](https://github.com/LabdhiiShah/Leetcode/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -275,6 +278,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/LabdhiiShah/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/LabdhiiShah/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/LabdhiiShah/Leetcode/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
