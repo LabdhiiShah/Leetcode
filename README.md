@@ -22,6 +22,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LabdhiiShah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LabdhiiShah/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LabdhiiShah/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -43,6 +44,7 @@
 | [0316-remove-duplicate-letters](https://github.com/LabdhiiShah/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiiShah/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LabdhiiShah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LabdhiiShah/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/LabdhiiShah/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -196,6 +198,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LabdhiiShah/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
@@ -320,4 +323,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiiShah/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LabdhiiShah/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/LabdhiiShah/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
