@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/LabdhiiShah/Leetcode/tree/master/0039-combination-sum) |
 | [0189-rotate-array](https://github.com/LabdhiiShah/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/LabdhiiShah/Leetcode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/LabdhiiShah/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -311,6 +312,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/LabdhiiShah/Leetcode/tree/master/0039-combination-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Pigeonhole Principle
 |  |
