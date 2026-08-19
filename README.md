@@ -14,6 +14,7 @@
 | [0877-stone-game](https://github.com/LabdhiiShah/Leetcode/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/LabdhiiShah/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/LabdhiiShah/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1386-cinema-seat-allocation](https://github.com/LabdhiiShah/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/LabdhiiShah/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/LabdhiiShah/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -71,6 +72,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/LabdhiiShah/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [1386-cinema-seat-allocation](https://github.com/LabdhiiShah/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/LabdhiiShah/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LabdhiiShah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -161,6 +163,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/LabdhiiShah/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/LabdhiiShah/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/LabdhiiShah/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/LabdhiiShah/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LabdhiiShah/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LabdhiiShah/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -176,6 +179,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/LabdhiiShah/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/LabdhiiShah/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1386-cinema-seat-allocation](https://github.com/LabdhiiShah/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
