@@ -24,6 +24,7 @@
 | [1872-stone-game-viii](https://github.com/LabdhiiShah/Leetcode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LabdhiiShah/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LabdhiiShah/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LabdhiiShah/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LabdhiiShah/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/LabdhiiShah/Leetcode/tree/master/2425-bitwise-xor-of-all-pairings) |
@@ -80,6 +81,7 @@
 | [1386-cinema-seat-allocation](https://github.com/LabdhiiShah/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/LabdhiiShah/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LabdhiiShah/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/LabdhiiShah/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/LabdhiiShah/Leetcode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LabdhiiShah/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LabdhiiShah/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
